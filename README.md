@@ -1,6 +1,5 @@
 # Jogo da Cobrinha
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9dec5c14-4728-439a-b77c-28041a29a0fc/deploy-status)](https://app.netlify.com/projects/fastidious-strudel-220425/deploys)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/541b4e11-a981-4b7f-bdd8-e5783a06fde2/deploy-status)](https://app.netlify.com/projects/guilhermebrito-jogodacobrinha/deploys)
 ## Etapas
 
 - [x] Design na página (HTML e CSS)
