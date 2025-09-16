@@ -2,6 +2,7 @@ const playBoard = document.querySelector(".play-board");
 const scoreElement = document.querySelector(".score");
 const highScoreElement = document.querySelector(".high-score");
 const controls = document.querySelectorAll(".controls i");
+const botaoReiniciar = document.getElementById('reiniciar');
 
 let gameOver = false;
 let foodX, foodY;
@@ -24,7 +25,7 @@ const updateFoodPosition = () => {
 const handleGameOver = () => {
     // Limpando o cronômetro e recarregando a página no fim do jogo
     clearInterval(setIntervalId);
-    alert("Game Over! Press OK to replay...");
+    alert("Game Over! D:");
     location.reload();
 }
 
@@ -87,6 +88,7 @@ const initGame = () => {
     }
     playBoard.innerHTML = html;
 }
+
 
 updateFoodPosition();
 setIntervalId = setInterval(initGame, 100);
