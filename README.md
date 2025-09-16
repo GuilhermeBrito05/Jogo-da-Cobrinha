@@ -5,7 +5,6 @@
 - [x] Design na página (HTML e CSS)
 - [x] Lógica do jogo (Javascript)
 - [x] [Teste do jogo](https://codepen.io/Guilherme-Brito-the-styleful/full/NPGYzPy)
-- [x] Botão para reiniciar o jogo
 
  ## Tecnologias 
  * HTML, CSS e Javascript
