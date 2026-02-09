@@ -7,7 +7,9 @@
 - [x] [Teste do jogo](https://codepen.io/Guilherme-Brito-the-styleful/full/NPGYzPy)
 
  ## Tecnologias 
- * HTML, CSS e Javascript
+ * HTML
+ * CSS
+ * Javascript
 
 ## Sobre
 
